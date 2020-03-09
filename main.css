@@ -1,0 +1,45 @@
+body {
+	background:white;
+	color:black; 
+}
+h1 {
+	color:blue;
+}
+h2 {
+	color:blue;
+}
+
+#menu 
+{   background:aquamarine;
+	height: 40px;
+	width:1330px;
+	background: ;
+	position:fixed;
+	top: 0px;
+	text-align: center;
+}
+#servicios
+{
+	background:silver;
+	height: 60px;
+}
+#cabecera
+{
+	background:yellow;
+	height: 50px;
+}
+#servicios2
+{
+	background:skyblue;
+	height: 65px;
+}
+#servicios3
+{
+	background:violet;
+	height: 75px;
+}
+#servicios4
+{
+	background: aquamarine;
+	height: 55px;
+}
